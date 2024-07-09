@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wrestling-Universe-Management-Tool", "Wrestling-Universe-Management-Tool.vcxproj", "{7B993E28-D1EC-4909-9F82-412C8FD4CDA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wrestling-Universe-Management-Tool-Testing", "..\Wrestling-Universe-Management-Tool-Testing\Wrestling-Universe-Management-Tool-Testing.vcxproj", "{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7B993E28-D1EC-4909-9F82-412C8FD4CDA6}.Release|x64.Build.0 = Release|x64
 		{7B993E28-D1EC-4909-9F82-412C8FD4CDA6}.Release|x86.ActiveCfg = Release|Win32
 		{7B993E28-D1EC-4909-9F82-412C8FD4CDA6}.Release|x86.Build.0 = Release|Win32
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Debug|x64.ActiveCfg = Debug|x64
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Debug|x64.Build.0 = Debug|x64
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Debug|x86.Build.0 = Debug|Win32
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Release|x64.ActiveCfg = Release|x64
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Release|x64.Build.0 = Release|x64
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Release|x86.ActiveCfg = Release|Win32
+		{EB5C57B1-FCA2-4B60-9572-A46740CD63FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,5 +18,14 @@
     <ClCompile Include="Wrestling-Universe-Management-Tool.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Wrestler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Affinity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Brand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

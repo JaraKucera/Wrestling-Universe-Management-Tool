@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Affinity.cpp" />
+    <ClCompile Include="Brand.cpp" />
+    <ClCompile Include="Wrestler.cpp" />
     <ClCompile Include="Wrestling-Universe-Management-Tool.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
